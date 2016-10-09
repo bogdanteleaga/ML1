@@ -90,3 +90,5 @@ ENV/
 
 lab2/mnist.pkl.gz
 lab2/mnist.pkl
+.DS_Store
+
